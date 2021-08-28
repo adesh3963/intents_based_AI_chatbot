@@ -1,0 +1,34 @@
+{"base_data": [
+    {"tag":"greetings",
+    "patterns":["hey","hello","good morning","whats up","how are you doing","good to see you", "hi"],
+    "responses":["hello there..!","Good morning..","how is your day","What can i do for you"]
+    },
+    { "tag":"goodbye",
+    "patterns":["bye","see you","nice meeting you","cya","sayonara","ta ta","meet you again","have a good day"],
+    "responses":["sad to see you go","good bye..1","hope to meet you again","come again","nice talking to you come again","see you soon"]
+    },
+    {"tag":"age",
+    "patterns":["how old are you","your age","how old are you","age","birth"],
+    "responses":["my owner is 21 years old..","my owner created me in August 2021","21 years!"]
+    },
+    {"tag":"name",
+    "patterns":["whats your name","name","who are you","don't know you","introduce your self","your self","what can i call you"],
+    "responses":["i am a chatbot..!","i owner name is Adesh..!","chatbot made by Adesh..!","my owner named me as AI-chatBot"]
+    },
+    {"tag":"work",
+    "patterns": ["profession","work","bussy","job","what do you do"],
+    "responses":["my owner needs a jod..!","Adesh needs internships ","data science is work field..!","get my owner a job"
+    ]},
+    {"tag":"love",
+    "patterns":["do you have a boyfriend","would you date me","lets go for a coffie","i like you","be my girlfriend","love me","be romentic"],
+    "responses":["i am sigle","don't have time for love","machines dont love they compute"]
+    },
+    {"tag":"compliments",
+    "patterns":["you are good","awesome","thanks","nice work ","good work","nice reply","great "],
+    "responses":["thankyou..","lets talk more..","all for you","hmm.. so you are impressed","meet again then"]
+    },
+    {"tag":"jokes",
+    "patterns":["tell me a joke","a comedy"," funny","humour","haha funny"],
+    "responses":["i am out of jokes for now","I will tell a joke sometimes later","no more jokes"]
+    }
+]}
